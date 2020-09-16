@@ -12,7 +12,7 @@ I wrote a script to aggregate student names and emails and extend it by class da
 | Student 3         | student3@email.com |    45 |       |    55 |    18 |     54 |        |
 | Student Student 3 |                    |       |       |       |       |        |     45 |
 
-This table aggregates 6 Zoom "Usage Report".
+*Table 1: This table aggregates 6 Zoom "Usage Report".*
 
 # Usage
 Download Zoom Usage Reports for each class. Select both checkmark boxes. The reports may need to be renamed if the meeting is reoccurring. The meeting id is part of the filename. Save all reports to the same folder. They should be .csv files.
@@ -22,3 +22,4 @@ Change the directory in the script to the folder where the reports have been sav
 Run script.
 
 ![Find Zoom Usage Reports](https://github.com/har1eyk/Create-Attenance-List-Using-Zoom/blob/master/Find.Zoom.usage.reports.png)
+*Fig 1: Select 'Report' from Zoom*
