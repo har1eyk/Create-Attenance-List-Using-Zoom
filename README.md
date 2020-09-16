@@ -21,3 +21,4 @@ Change the directory in the script to the folder where the reports have been sav
 
 Run script.
 
+![Find Zoom Usage Reports](https://github.com/har1eyk/Create-Attenance-List-Using-Zoom/blob/master/Find.Zoom.usage.reports.png)
