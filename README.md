@@ -1,7 +1,7 @@
-# Create an Attendance Spreadsheet using Zoom reports.
+# Create an Attendance Spreadsheet Using Zoom Reports
 I have fifty students. I need to know which ones are attending lectures. It's possible to download a usage report from Zoom for each class, but over a few class with many students this becomes a forboding aggregation. To complicate matters, students can log onto the class with a different name or user email.
 
-# Python to the Rescue
+# Python Does the Aggregation
 I wrote a script to aggregate student names and emails and extend it by class dates. Rather than "yes/no" attendance, the table is instead filled with class attendance time (minutes). 
 
 |       Name        |       Email        | 1-Sep | 3-Sep | 4-Sep | 8-Sep | 10-Sep | 11-Sep |
