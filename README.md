@@ -15,7 +15,7 @@ I wrote a script to aggregate student names and emails and extend it by class da
 *Table 1: This table aggregates 6 Zoom "Usage Report". A report for each date.*
 
 # Usage
-Download Zoom Usage Reports for each class. Select both checkmark boxes. The reports may need to be renamed if the meeting is reoccurring. The meeting id is part of the filename. Save all reports to the same folder. They should be .csv files.
+Download Zoom Usage Reports for each class. Select both checkmark boxes, 'Export with Meeting Data' and 'Show Unique Users.' The reports may need to be renamed if the meeting is a reoccurring meeting. The meeting id is part of the filename. Save all reports to the same folder. They should be .csv files.
 
 Change the directory in the script to the folder where the reports have been saved. 
 
