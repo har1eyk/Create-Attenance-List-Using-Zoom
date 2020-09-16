@@ -22,4 +22,7 @@ Change the directory in the script to the folder where the reports have been sav
 Run script.
 
 ![Find Zoom Usage Reports](https://github.com/har1eyk/Create-Attenance-List-Using-Zoom/blob/master/Find.Zoom.usage.reports.png)
-*Fig 1: Select 'Report' from Zoom*
+*Fig 1: Sign into Zoom. Select 'Reports' > 'Usage'*
+
+![Find Zoom Usage Reports](https://github.com/har1eyk/Create-Attendance-List-Using-Zoom/blob/master/Export.mtg.data.and.show.unique.users.png)
+*Fig 2: Select both checkmarks when prompted, then download.*
