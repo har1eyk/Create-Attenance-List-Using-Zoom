@@ -1,0 +1,39 @@
+	Name	Email	2020-09-01	2020-09-03	2020-09-05
+0	Aaron Harrison	sclark@hotmail.com	0.0	0.0	0.0
+1	Andrew	sbell@freeman.com	NR	NR	19.0
+2	Andrew	NR	NR	52.0	52.0
+3	Andrew Cobb	juliekane@james-davis.org	52.0	NR	NR
+4	Andrew Collier	sbell@freeman.com	19.0	19.0	NR
+5	Carrie	nelsonjoanne@cooper.biz	NR	58.0	58.0
+6	Carrie Medina	nelsonjoanne@cooper.biz	58.0	NR	NR
+7	Daniel Daniel	millerdarryl@hotmail.com	50.0	50.0	50.0
+8	Daniel Lee	dominique76@oliver-perry.com	59.0	59.0	59.0
+9	Devin Porter	millerjoy@delgado.biz	56.0	56.0	56.0
+10	Dr. Jason Terry DDS	todd74@yahoo.com	39.0	39.0	39.0
+11	Dr. Nicole Cox	patriciajohnson@hotmail.com	12.0	12.0	12.0
+12	Eric Mitchell	alec99@ramos.biz	0.0	0.0	0.0
+13	Erik Gomez MD	qlara@smith.com	38.0	38.0	38.0
+14	Glenn Watson	ipage@williams.org	52.0	52.0	52.0
+15	Jacqueline Lopez	rodney65@lane-berg.org	39.0	39.0	39.0
+16	James Singh	ujohnson@lee.info	32.0	32.0	32.0
+17	Jamie Baxter	meganevans@bennett-massey.com	19.0	19.0	19.0
+18	Jeffrey Williams	lbaker@hotmail.com	48.0	48.0	48.0
+19	Jessica	schmidtchristopher@scott.com	NR	NR	6.0
+20	Jessica Miller	schmidtchristopher@scott.com	6.0	6.0	NR
+21	Jessica Stone	wrightmatthew@yahoo.com	22.0	22.0	22.0
+22	Judy Young	smithkyle@rivera.com	15.0	15.0	15.0
+23	Kenneth	bchandler@gmail.com	NR	0.0	0.0
+24	Kenneth Mcdaniel	bchandler@gmail.com	0.0	NR	NR
+25	Lacey Phelps	mriggs@hotmail.com	38.0	NR	NR
+26	Lacey Phelps Martinez	mriggs@hotmail.com	NR	38.0	38.0
+27	Larry Greene	jonathan98@hotmail.com	57.0	57.0	57.0
+28	Malik Powers	odavis@yahoo.com	15.0	15.0	15.0
+29	Mr. Nicholas Wiggins	joseph59@good.biz	10.0	10.0	10.0
+30	Natasha Burns	mclark@gmail.com	10.0	NR	NR
+31	Natasha Burns	NR	NR	10.0	10.0
+32	Nicole West	cfoster@yahoo.com	34.0	34.0	34.0
+33	Sabrina Taylor	qmartinez@gmail.com	3.0	3.0	3.0
+34	Shane May	lucaswilliams@long.com	4.0	4.0	4.0
+35	Shannon	ahunt@gmail.com	NR	NR	9.0
+36	Shannon Cook	ahunt@gmail.com	9.0	9.0	NR
+37	Tamara Collins	olsonbrandy@zimmerman.com	41.0	41.0	41.0
